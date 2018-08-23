@@ -1,2 +1,2 @@
 # hello-world
-Hello World
+I'm Tim. This is my first experience with GitHub
